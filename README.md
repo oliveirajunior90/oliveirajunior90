@@ -24,6 +24,7 @@ I am a Full Stack Developer with over 5 years of professional experience. I have
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=flat&logo=graphql&logoColor=white)
 
 **Databases**:
 
