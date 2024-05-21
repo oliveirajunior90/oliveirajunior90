@@ -1,6 +1,6 @@
 # Hello, I'm Almir Junior 
 
-I am a Full Stack Developer with over 5 years of professional experience. I have a strong background in various technologies and programming languages, allowing me to develop complete and robust solutions from front-end to back-end.
+I am a Full Stack Developer with over 5 years of professional experience. Throughout my career, I have been involved in developing applications, helping the team refine solutions, conducting code reviews, and mentoring junior developers. I have experience working with monolithic architectures, microservices, and event-driven systems.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/juan-hurtado-0244b5188/)
 
