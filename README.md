@@ -1,6 +1,8 @@
-# Hello, I'm Almir Junior 👋
+# Hello, I'm Almir Junior 
 
 I am a Full Stack Developer with over 5 years of professional experience. I have a strong background in various technologies and programming languages, allowing me to develop complete and robust solutions from front-end to back-end.
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/juan-hurtado-0244b5188/)
 
 ## 🛠️ Technologies and Tools
 
@@ -40,6 +42,6 @@ I am a Full Stack Developer with over 5 years of professional experience. I have
 - **English**: Fluent
 - **Portuguese**: Native
 
-## 🚀 About Me
+## Stats
 
-I am passionate about technology and innovation. I love solving complex problems and creating efficient applications that add value to the end user. I always strive to stay updated with the latest market trends and continuously improve my technical and interpersonal 
+![oliveirajunior90's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirajunior90&theme=dracula&show_icons=true&hide_border=true&layout=compact)
